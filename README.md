@@ -155,7 +155,7 @@ This tool helps telecom retention teams:
 B.Tech in AI/ML | M.Tech (pursuing)  
 Specializing in: LLMs, RAG pipelines, agentic AI, and production ML systems
 
-📬 [GitHub](https://github.com/disha1647) · [LinkedIn](#) · [Upwork](#)
+📬 [GitHub](https://github.com/disha1647) · [LinkedIn](https://www.linkedin.com/in/disha-s-988168273/) · 
 
 ---
 
